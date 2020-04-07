@@ -1,0 +1,69 @@
+#training list
+
+trainer.train([
+    "vy"
+    "What are your school reports like?",
+    "Pretty bad. I need to concentrate on my work a little more.",
+    "If someone was to make a movie about your life, what would it be like? (adventure/romantic/action/scary movie)",
+    "An adventure film",
+    "Pick an insect (Beetle/ Butterfly/ Bee/ Mantis)",
+    "Beetle",
+    "What is your favorite type of weather?",
+    "Blazing hot sunshine",
+    "What is your favorite thing to do on the computer?",
+    "Watch cat videos on youtube",
+    "What is your favorite type of sports?",
+    "American Football Packers",
+    "If you could wear only one kind of shoe, what would you pick? ",
+    "Crocs",
+    "What do you want in your sandwich?",
+    "Meatball and spicy sauce",
+    "What type of pen will you use to draw doodle?",
+    "Coloured Pencil",
+    "You are definitely OLAF! You are a friendly snowman who's obssessed with sunbathing!"
+
+])
+trainer.train([
+    "vy"
+    "What are your school reports like?",
+    "Pretty good, actually",
+    "If someone was to make a movie about your life, what would it be like? (adventure/romantic/action/scary movie)",
+    "A romantic comedy",
+    "Pick an insect (Beetle/ Butterfly/ Bee/ Mantis)",
+    "Butterfy",
+    "What is your favorite type of weather?",
+    "Brezzy spring day",
+    "What is your favorite thing to do on the computer?",
+    "Watching stuffs on Netflix or playing games",
+    "What is your favorite type of sports?",
+    "I don't like sports, but I like watching them",
+    "If you could wear only one kind of shoe, what would you pick? ",
+    "Sneakers or flip flops",
+    "What do you want in your sandwich? (Turkey/Ham/Meatball)",
+    "Ham and salad",
+    "What type of pen will you use to draw doodle?",
+    "Pen",
+    "You are definitely Princess Jasmine! You are a friendly, loyal, and super sassy!!!"
+
+])
+
+
+
+
+
+# trainer = ListTrainer(chatbot)
+
+# print('Today, I will guess what disney character you are. Tell me your name, please?')
+
+# # The following loop will execute each time the user enters input
+# while True:
+#     try:
+#         user_input = input()
+
+#         bot_response = chatbot.get_response(user_input)
+
+#         print(bot_response)
+
+#     # Press ctrl-c or ctrl-d on the keyboard to exit
+#     except (KeyboardInterrupt, EOFError, SystemExit):
+#         break

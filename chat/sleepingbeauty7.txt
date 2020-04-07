@@ -1,0 +1,6 @@
+Hi
+Do you want to do a quick Disney trivia?
+No
+Are you sure that you don't want to take the trivia?
+Yes
+Ok bye. It will be sad but I hope you will take one in the future

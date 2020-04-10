@@ -4,7 +4,7 @@ import os
 
 # advice
 # Create a new chat bot named Charlie
-bot = ChatBot('Fish')
+bot = ChatBot('Cat')
 bot.storage.drop()
 trainer = ListTrainer(bot)
 for _file in os.listdir('chat'):
